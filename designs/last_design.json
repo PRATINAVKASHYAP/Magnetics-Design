@@ -1,0 +1,29 @@
+{
+  "L_target_uH": 200.0,
+  "rows_saved": [
+    {
+      "Voltage (V)": 800.0,
+      "Hold (us)": 15.0
+    },
+    {
+      "Voltage (V)": 0.0,
+      "Hold (us)": 25.0
+    },
+    {
+      "Voltage (V)": -800.0,
+      "Hold (us)": 15.0
+    }
+  ],
+  "t_trans_us": 0.0,
+  "enforce": false,
+  "Idc": 170.0,
+  "use_i0": false,
+  "core_choice": "CACC-630 (nanocrystalline C-core)",
+  "Ae_custom": 0.001558,
+  "le_custom": 0.323,
+  "Ve_custom": 0.000503234,
+  "mat_name": "CAAC-630 (Finemet)",
+  "B_max_user": 1.0,
+  "N": 25,
+  "design_name": "last_design"
+}
